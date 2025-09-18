@@ -1,4 +1,4 @@
-# MyLs
+# my_ls
 
 A basic re-implementation of the ls command.
 
